@@ -1,0 +1,11 @@
+main: us.mytheria.ldadditions.Additions
+name: LibsDisguisesAdditions
+author: promorrom
+version: 1.0
+api-version: 1.13
+description: LibsDisguises additions in a plugin
+depend: [ LibsDisguises ]
+commands:
+  undisgap:
+    description:
+    aliases: [ undisguiseallplayers, undisgallplayers ]
